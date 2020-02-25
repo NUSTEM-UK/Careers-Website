@@ -1,3 +1,6 @@
 [submodule "careers/themes/hugo-theme-bootstrap4-blog"]
 	path = careers/themes/hugo-theme-bootstrap4-blog
 	url = https://github.com/alanorth/hugo-theme-bootstrap4-blog
+[submodule "careers/themes/hugo-cards"]
+	path = careers/themes/hugo-cards
+	url = https://github.com/bul-ikana/hugo-cards
