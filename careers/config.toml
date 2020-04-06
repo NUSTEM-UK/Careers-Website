@@ -32,6 +32,12 @@ summaryLength = 10
 #  name = "Link 1"
 #  url = "https://example.org"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  subject = "subjects"
+  key_stage = "key stages"
+
 
 # Theme variables
 #

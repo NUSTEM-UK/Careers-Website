@@ -2,6 +2,7 @@
 title = 'Acoustics Engineer'
 tags = ['addition-and-subtraction', 'committed', 'communicative', 'fractions', 'maths', 'maths-number', 'maths-primary', 'multiplication-and-division', 'number', 'number-and-place-value', 'open-minded', 'primary', 'primary', 'science', 'science-primary', 'sound', 'sound', 'year-1', 'year-2', 'year-3', 'year-4', 'year-5', 'year-6']
 categories = ['maths-number', 'multiplication-and-division', 'number-and-place-value', 'fractions']
+subjects = ['science', 'maths']
 menu = "main"
 +++
 
